@@ -6,8 +6,7 @@
 - **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Java, Spring Boot, Node.js
 - **Database**: MySQL
-- **Tools**: Git, GitHub, VS Code, Linux/Windows
-
+  
 🚀 Currently working on:
 - **BringMyCart** – A wishlist manager that lets users save and track products from Amazon using a browser extension and web app.
 
